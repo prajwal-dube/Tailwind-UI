@@ -57,7 +57,7 @@ npm init -y
 
 ### Step 2️⃣ — Install Tailwind and required dependencies
 ```bash
-npm install -D tailwindcss postcss autoprefixer
+npm install -D tailwindcss@3 postcss autoprefixer
 ```
 
 ### Step 3️⃣ — Generate config files
