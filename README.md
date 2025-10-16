@@ -55,7 +55,7 @@ Tailwind gives utilities like:
 npm init -y
 ```
 
-### Step 2️⃣ — Install Tailwind and required dependencies
+### Step 2️⃣ — Install Tailwind and required dependencies  (  Tailwind v3.x  ) 
 ```bash
 npm install -D tailwindcss@3 postcss autoprefixer
 ```
